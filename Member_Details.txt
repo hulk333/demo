@@ -1,2 +1,2 @@
-Kavya Barnwal 18114039 Batch-O2 CSE
-Karan Karhale 18116036 Batch-O5 ECE 
+Kavya Barnwal 18114039 Batch-o2 CSE
+Rushiprasad Sagare 18114071 Batch-o3 CSE
